@@ -1,0 +1,2 @@
+# ProteinClassificationWithComplexValuedConvolutionalNeuralNetworks
+Encodıng of proteın sequences ınto complex numbers and classıfıcatıon usıng evolutıonary complex-valued artıfıcıal neural networks
