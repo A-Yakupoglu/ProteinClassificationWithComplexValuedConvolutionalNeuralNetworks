@@ -18,5 +18,5 @@ The aim of this study is to classify 1D complex-valued data obtained from DNA, c
 • Protein classification was performed using separate real-valued 1D RVCNN models for each data type.
 • The results obtained were compared with complex-valued models.
 
-#### Technical and Development Notes:
-The implementation of this study, as well as the related project “github.com/A-Yakupoglu/ComplexVsRealANNProteinClassify”, was carried out using the Python programming language within the Jupyter Notebook environment.For both studies, the code development process benefited from open-source repositories and libraries such as Keras, TensorFlow, and GitHub. During the debugging and compiling stages of the developed code, the generative AI tool ChatGPT was utilized solely for technical support purposes, with all outputs verified for accuracy and used in full compliance with ethical principles.
+##### Technical and Development Notes:
+The applications of the study were carried out using the Python programming language in the Jupyter Notebook environment. During the code development process, deep learning libraries and code repositories such as Keras and TensorFlow were utilized. In the debugging and compilation stages of the developed code, the generative artificial intelligence tool ChatGPT-4o (version: 2024-05-13) was used solely for technical support purposes and within the framework of limited and full scientific responsibility principles, with its accuracy verified.
